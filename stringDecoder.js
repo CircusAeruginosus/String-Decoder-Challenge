@@ -12,6 +12,6 @@ const decoder = code => {
     return result
 }
 
-decoder('0y4akjfe0s')
-decoder('0h2xce5ngbrdy')
-decoder('2bna0p1mp2osl0e')
+console.log(decoder('0y4akjfe0s'))
+console.log(decoder('0h2xce5ngbrdy'))
+console.log(decoder('2bna0p1mp2osl0e'))
